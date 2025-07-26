@@ -1,7 +1,7 @@
 Prerequisitos en Windows 11:
 --------------
 Tener instalado el siguiente software:
-A). Java Development Kit (JDK) versión 8 o 11
+A) Java Development Kit (JDK) versión 8 o 11
     Para instalar el JDK (Java Development Kit) en Windows 11, debes descargar el instalador desde el sitio web de Oracle, ejecutarlo como administrador, y luego configurar las variables de entorno. 
 Aquí tienes los pasos detallados:
 1. Descargar el JDK:
@@ -30,7 +30,7 @@ Escribe java -version y presiona Enter.
 Debería mostrar la versión del JDK instalada. 
 
 
-B). Maven
+B) Maven
 Para instalar Maven en Windows 11, se deben descargar los binarios, extraerlos, configurar las variables de entorno y verificar la instalación. Primero, descarga el archivo ZIP de Maven desde la página oficial. Luego, descomprime el archivo en una ubicación deseada, por ejemplo, en C:\apache-maven-[versión]. Después, configura las variables de entorno: crea una variable llamada MAVEN_HOME apuntando a la ruta de instalación de Maven y agrega la ruta de los binarios de Maven al PATH. Finalmente, abre una nueva terminal y verifica la instalación ejecutando mvn -version. 
 Aquí están los pasos detallados:
 
@@ -56,7 +56,7 @@ Ejecuta el comando mvn -version.
 Debe mostra la versión de maven instalada.
 
 
-C). Git
+C) Git
     Descargar el instalable de git he instalar en windows:
     https://gitforwindows.org/
     Verifica  en una ventana de comando de windows con:
@@ -74,46 +74,33 @@ En una ventana de comandos.
    mkdir proyecto
 2. Entrar a la carpeta:
    cd proyecto
-3. Clonar proyecto:
-    git clone https://github.com/freddyaguero/userBackend.git
+3. Clonar proyecto con el comando:
+    git clone https://github.com/freddyaguero/documentprocessor.git
 4. Entrar a la carpeta del proyecto clonado:
-   cd userBackend
+   cd documentprocessor
 5. Verificar que estén todos los archivos del proyecto
    dir
 
 
-Ejecutar test, Construir y ejecutar el proyecto con gradle
--------------------------------------------
-Continuando en la ventana de comandos anterior
-1. Ejecutar test:
-    gradle test
-2. Construir el proyecto con gradle: 
-    gradle build
-3. Ejecutar el proyecto: 
-java -jar build/libs/userbackend-0.0.1-SNAPSHOT.jar
-
-Probar los servicios con una herramienta como POSTMAN
------------------------------------------------------
-1. Se dejan los collection de prueba en la carpeta: 
-   postman
-2. Documento con pruebas de postman.
-
-
-Verificación de la base de datos H2
+Generar ejecutable y Ejecutar Proyecto documentprocessor
 -----------------------------------
-1. En el navegador Chorme ir a la URL:
-http://localhost:8080/h2-console
+1. Siguendo los pasos de la ventana de comandos anterior se construye el proyecto con maven y genera jar a ejecutar con:
+   mvn clean install
 
-2. Llenar los siguientes valores en la página:
-Save Setting: Generic H2 (Embedded)
-Save name: Generic H2 (Embedded)
-Driver class: org.h2.Driver
-JDBC URL: jdbc:h2:mem:userbackenddb
-User Name:sa
+2. Ejecutar la aplicación que utiliza el archivo lote.ejemplo.json de entrada ubicado en la carpeta actual del proyecto descargado con:
+   java -jar target/documentprocessor-1.0-SNAPSHOT.jar
 
-3. Presionar el botón CONNECT
+3. Verificar los archivos de salida en la carpeta output:
+ cd output
+ dir
 
+4. Abrir con un editor el archivo:
+lote.xml
 
-Diagramas
----------
-1. Carpeta: diagramas
+5. Abrir con un navegador como chrome el archivo:
+reporte.html
+
+   
+
+   
+
