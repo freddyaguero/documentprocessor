@@ -1,0 +1,10 @@
+com\documentprocessor\utils\UtilJson.class
+com\documentprocessor\utils\LoteOut.class
+com\documentprocessor\utils\UtilJsonImpl.class
+com\documentprocessor\utils\LoteOutImpl.class
+com\documentprocessor\dto\Lote.class
+com\documentprocessor\utils\UtilHTML.class
+com\documentprocessor\utils\UtilHTMLImpl.class
+com\documentprocessor\App.class
+com\documentprocessor\dto\Documento.class
+com\documentprocessor\dto\Entrada.class

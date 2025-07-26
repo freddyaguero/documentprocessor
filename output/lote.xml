@@ -1,0 +1,6003 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<DTE version="1.0">
+    <Documento ID="30000000">
+        <Cliente>Cliente 0</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9244.77</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000001">
+        <Cliente>Cliente 1</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7908.61</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000002">
+        <Cliente>Cliente 2</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>752.51</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000003">
+        <Cliente>Cliente 3</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3700.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000004">
+        <Cliente>Cliente 4</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8595.82</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000005">
+        <Cliente>Cliente 5</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6456.19</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000006">
+        <Cliente>Cliente 6</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8065.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000007">
+        <Cliente>Cliente 7</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1386.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000008">
+        <Cliente>Cliente 8</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>80.38</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000009">
+        <Cliente>Cliente 9</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3120.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000010">
+        <Cliente>Cliente 10</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1690.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000011">
+        <Cliente>Cliente 11</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9856.96</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000012">
+        <Cliente>Cliente 12</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7487.29</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000013">
+        <Cliente>Cliente 13</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>625.1</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000014">
+        <Cliente>Cliente 14</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3052.13</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000015">
+        <Cliente>Cliente 15</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8919.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000016">
+        <Cliente>Cliente 16</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5468.93</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000017">
+        <Cliente>Cliente 17</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5559.3</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000018">
+        <Cliente>Cliente 18</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6250.33</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000019">
+        <Cliente>Cliente 19</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8667.43</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000020">
+        <Cliente>Cliente 20</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1227.85</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000021">
+        <Cliente>Cliente 21</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7566.35</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000022">
+        <Cliente>Cliente 22</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4551.01</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000023">
+        <Cliente>Cliente 23</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4212.61</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000024">
+        <Cliente>Cliente 24</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3688.13</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000025">
+        <Cliente>Cliente 25</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5248.73</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000026">
+        <Cliente>Cliente 26</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6695.1</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000027">
+        <Cliente>Cliente 27</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2015.83</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000028">
+        <Cliente>Cliente 28</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3699.26</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000029">
+        <Cliente>Cliente 29</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8189.42</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000030">
+        <Cliente>Cliente 30</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1846.46</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000031">
+        <Cliente>Cliente 31</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9134.13</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000032">
+        <Cliente>Cliente 32</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5916.56</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000033">
+        <Cliente>Cliente 33</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6242.48</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000034">
+        <Cliente>Cliente 34</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5528.27</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000035">
+        <Cliente>Cliente 35</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7170.69</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000036">
+        <Cliente>Cliente 36</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>588.77</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000037">
+        <Cliente>Cliente 37</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4089.46</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000038">
+        <Cliente>Cliente 38</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7510.79</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000039">
+        <Cliente>Cliente 39</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8816.16</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000040">
+        <Cliente>Cliente 40</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2490.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000041">
+        <Cliente>Cliente 41</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7957.36</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000042">
+        <Cliente>Cliente 42</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8542.31</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000043">
+        <Cliente>Cliente 43</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8047.26</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000044">
+        <Cliente>Cliente 44</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1114.32</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000045">
+        <Cliente>Cliente 45</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9543.4</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000046">
+        <Cliente>Cliente 46</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>478.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000047">
+        <Cliente>Cliente 47</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4209.2</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000048">
+        <Cliente>Cliente 48</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9788.77</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000049">
+        <Cliente>Cliente 49</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4462.61</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000050">
+        <Cliente>Cliente 50</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3157.91</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000051">
+        <Cliente>Cliente 51</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7825.24</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000052">
+        <Cliente>Cliente 52</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8684.87</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000053">
+        <Cliente>Cliente 53</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5277.07</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000054">
+        <Cliente>Cliente 54</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4473.11</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000055">
+        <Cliente>Cliente 55</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2242.88</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000056">
+        <Cliente>Cliente 56</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2021.27</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000057">
+        <Cliente>Cliente 57</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9013.13</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000058">
+        <Cliente>Cliente 58</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>177.45</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000059">
+        <Cliente>Cliente 59</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3679.0</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000060">
+        <Cliente>Cliente 60</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8493.94</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000061">
+        <Cliente>Cliente 61</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5994.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000062">
+        <Cliente>Cliente 62</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8460.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000063">
+        <Cliente>Cliente 63</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9864.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000064">
+        <Cliente>Cliente 64</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2973.22</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000065">
+        <Cliente>Cliente 65</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5577.55</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000066">
+        <Cliente>Cliente 66</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1843.16</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000067">
+        <Cliente>Cliente 67</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2394.59</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000068">
+        <Cliente>Cliente 68</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5126.57</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000069">
+        <Cliente>Cliente 69</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3407.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000070">
+        <Cliente>Cliente 70</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5622.03</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000071">
+        <Cliente>Cliente 71</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2597.5</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000072">
+        <Cliente>Cliente 72</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2229.81</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000073">
+        <Cliente>Cliente 73</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2871.95</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000074">
+        <Cliente>Cliente 74</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3204.13</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000075">
+        <Cliente>Cliente 75</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2934.36</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000076">
+        <Cliente>Cliente 76</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6732.25</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000077">
+        <Cliente>Cliente 77</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>710.74</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000078">
+        <Cliente>Cliente 78</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5498.14</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000079">
+        <Cliente>Cliente 79</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>289.91</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000080">
+        <Cliente>Cliente 80</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6804.24</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000081">
+        <Cliente>Cliente 81</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>96.7</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000082">
+        <Cliente>Cliente 82</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2387.43</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000083">
+        <Cliente>Cliente 83</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8649.86</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000084">
+        <Cliente>Cliente 84</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3930.86</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000085">
+        <Cliente>Cliente 85</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1381.11</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000086">
+        <Cliente>Cliente 86</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9668.04</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000087">
+        <Cliente>Cliente 87</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8633.9</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000088">
+        <Cliente>Cliente 88</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3068.91</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000089">
+        <Cliente>Cliente 89</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5500.54</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000090">
+        <Cliente>Cliente 90</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2411.59</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000091">
+        <Cliente>Cliente 91</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3135.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000092">
+        <Cliente>Cliente 92</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9223.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000093">
+        <Cliente>Cliente 93</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7208.26</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000094">
+        <Cliente>Cliente 94</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8279.73</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000095">
+        <Cliente>Cliente 95</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3653.21</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000096">
+        <Cliente>Cliente 96</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9878.01</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000097">
+        <Cliente>Cliente 97</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2500.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000098">
+        <Cliente>Cliente 98</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1389.4</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000099">
+        <Cliente>Cliente 99</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7803.07</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000100">
+        <Cliente>Cliente 100</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>467.84</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000101">
+        <Cliente>Cliente 101</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9547.99</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000102">
+        <Cliente>Cliente 102</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8099.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000103">
+        <Cliente>Cliente 103</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9985.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000104">
+        <Cliente>Cliente 104</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8811.46</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000105">
+        <Cliente>Cliente 105</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9014.79</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000106">
+        <Cliente>Cliente 106</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1404.77</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000107">
+        <Cliente>Cliente 107</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9650.76</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000108">
+        <Cliente>Cliente 108</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>560.31</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000109">
+        <Cliente>Cliente 109</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9490.98</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000110">
+        <Cliente>Cliente 110</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6273.97</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000111">
+        <Cliente>Cliente 111</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>460.43</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000112">
+        <Cliente>Cliente 112</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6832.05</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000113">
+        <Cliente>Cliente 113</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2073.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000114">
+        <Cliente>Cliente 114</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7888.96</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000115">
+        <Cliente>Cliente 115</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5388.17</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000116">
+        <Cliente>Cliente 116</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5468.45</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000117">
+        <Cliente>Cliente 117</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4519.78</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000118">
+        <Cliente>Cliente 118</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3687.89</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000119">
+        <Cliente>Cliente 119</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9977.18</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000120">
+        <Cliente>Cliente 120</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7705.25</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000121">
+        <Cliente>Cliente 121</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5062.34</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000122">
+        <Cliente>Cliente 122</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3239.47</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000123">
+        <Cliente>Cliente 123</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2254.13</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000124">
+        <Cliente>Cliente 124</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6909.25</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000125">
+        <Cliente>Cliente 125</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3937.4</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000126">
+        <Cliente>Cliente 126</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9538.38</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000127">
+        <Cliente>Cliente 127</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3816.34</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000128">
+        <Cliente>Cliente 128</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9356.53</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000129">
+        <Cliente>Cliente 129</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>998.82</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000130">
+        <Cliente>Cliente 130</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9446.29</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000131">
+        <Cliente>Cliente 131</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5009.85</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000132">
+        <Cliente>Cliente 132</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4705.16</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000133">
+        <Cliente>Cliente 133</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2660.44</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000134">
+        <Cliente>Cliente 134</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4396.9</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000135">
+        <Cliente>Cliente 135</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5743.76</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000136">
+        <Cliente>Cliente 136</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>487.48</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000137">
+        <Cliente>Cliente 137</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6914.36</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000138">
+        <Cliente>Cliente 138</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6392.52</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000139">
+        <Cliente>Cliente 139</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6583.87</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000140">
+        <Cliente>Cliente 140</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9758.51</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000141">
+        <Cliente>Cliente 141</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9109.74</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000142">
+        <Cliente>Cliente 142</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1439.16</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000143">
+        <Cliente>Cliente 143</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4698.25</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000144">
+        <Cliente>Cliente 144</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8158.69</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000145">
+        <Cliente>Cliente 145</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>590.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000146">
+        <Cliente>Cliente 146</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5117.22</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000147">
+        <Cliente>Cliente 147</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2976.59</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000148">
+        <Cliente>Cliente 148</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2813.87</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000149">
+        <Cliente>Cliente 149</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1672.69</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000150">
+        <Cliente>Cliente 150</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>208.69</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000151">
+        <Cliente>Cliente 151</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8631.33</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000152">
+        <Cliente>Cliente 152</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6086.53</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000153">
+        <Cliente>Cliente 153</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>21.01</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000154">
+        <Cliente>Cliente 154</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1104.27</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000155">
+        <Cliente>Cliente 155</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5080.72</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000156">
+        <Cliente>Cliente 156</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5166.55</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000157">
+        <Cliente>Cliente 157</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6264.86</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000158">
+        <Cliente>Cliente 158</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3489.66</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000159">
+        <Cliente>Cliente 159</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7111.37</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000160">
+        <Cliente>Cliente 160</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1913.17</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000161">
+        <Cliente>Cliente 161</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4488.31</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000162">
+        <Cliente>Cliente 162</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4743.74</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000163">
+        <Cliente>Cliente 163</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4971.17</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000164">
+        <Cliente>Cliente 164</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2742.43</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000165">
+        <Cliente>Cliente 165</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7869.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000166">
+        <Cliente>Cliente 166</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3391.31</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000167">
+        <Cliente>Cliente 167</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7220.82</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000168">
+        <Cliente>Cliente 168</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>661.48</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000169">
+        <Cliente>Cliente 169</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1621.45</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000170">
+        <Cliente>Cliente 170</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>897.78</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000171">
+        <Cliente>Cliente 171</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5836.8</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000172">
+        <Cliente>Cliente 172</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3632.1</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000173">
+        <Cliente>Cliente 173</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5773.15</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000174">
+        <Cliente>Cliente 174</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4855.94</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000175">
+        <Cliente>Cliente 175</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2303.87</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000176">
+        <Cliente>Cliente 176</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9.79</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000177">
+        <Cliente>Cliente 177</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>249.63</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000178">
+        <Cliente>Cliente 178</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1160.32</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000179">
+        <Cliente>Cliente 179</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7877.35</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000180">
+        <Cliente>Cliente 180</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7823.12</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000181">
+        <Cliente>Cliente 181</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6127.49</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000182">
+        <Cliente>Cliente 182</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2486.15</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000183">
+        <Cliente>Cliente 183</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7749.89</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000184">
+        <Cliente>Cliente 184</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9441.35</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000185">
+        <Cliente>Cliente 185</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>864.17</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000186">
+        <Cliente>Cliente 186</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3071.75</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000187">
+        <Cliente>Cliente 187</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>541.82</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000188">
+        <Cliente>Cliente 188</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5027.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000189">
+        <Cliente>Cliente 189</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5312.55</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000190">
+        <Cliente>Cliente 190</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7974.34</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000191">
+        <Cliente>Cliente 191</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2648.61</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000192">
+        <Cliente>Cliente 192</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2347.57</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000193">
+        <Cliente>Cliente 193</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6471.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000194">
+        <Cliente>Cliente 194</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6659.88</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000195">
+        <Cliente>Cliente 195</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2842.05</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000196">
+        <Cliente>Cliente 196</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>339.74</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000197">
+        <Cliente>Cliente 197</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8065.56</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000198">
+        <Cliente>Cliente 198</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2094.51</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000199">
+        <Cliente>Cliente 199</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8686.37</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000200">
+        <Cliente>Cliente 200</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5226.83</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000201">
+        <Cliente>Cliente 201</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4175.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000202">
+        <Cliente>Cliente 202</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2272.43</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000203">
+        <Cliente>Cliente 203</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3666.1</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000204">
+        <Cliente>Cliente 204</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4818.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000205">
+        <Cliente>Cliente 205</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1145.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000206">
+        <Cliente>Cliente 206</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8954.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000207">
+        <Cliente>Cliente 207</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3063.41</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000208">
+        <Cliente>Cliente 208</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1109.04</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000209">
+        <Cliente>Cliente 209</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9343.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000210">
+        <Cliente>Cliente 210</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>89.27</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000211">
+        <Cliente>Cliente 211</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8289.28</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000212">
+        <Cliente>Cliente 212</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7024.03</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000213">
+        <Cliente>Cliente 213</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6861.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000214">
+        <Cliente>Cliente 214</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2879.39</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000215">
+        <Cliente>Cliente 215</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3380.3</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000216">
+        <Cliente>Cliente 216</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6653.52</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000217">
+        <Cliente>Cliente 217</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2625.8</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000218">
+        <Cliente>Cliente 218</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4670.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000219">
+        <Cliente>Cliente 219</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4822.99</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000220">
+        <Cliente>Cliente 220</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7382.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000221">
+        <Cliente>Cliente 221</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9510.81</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000222">
+        <Cliente>Cliente 222</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9109.27</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000223">
+        <Cliente>Cliente 223</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2418.32</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000224">
+        <Cliente>Cliente 224</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6623.09</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000225">
+        <Cliente>Cliente 225</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6818.74</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000226">
+        <Cliente>Cliente 226</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3252.83</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000227">
+        <Cliente>Cliente 227</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9481.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000228">
+        <Cliente>Cliente 228</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8860.89</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000229">
+        <Cliente>Cliente 229</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9426.72</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000230">
+        <Cliente>Cliente 230</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7600.43</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000231">
+        <Cliente>Cliente 231</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4346.65</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000232">
+        <Cliente>Cliente 232</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6598.03</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000233">
+        <Cliente>Cliente 233</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4776.11</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000234">
+        <Cliente>Cliente 234</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1462.3</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000235">
+        <Cliente>Cliente 235</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1048.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000236">
+        <Cliente>Cliente 236</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5355.42</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000237">
+        <Cliente>Cliente 237</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4018.13</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000238">
+        <Cliente>Cliente 238</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2459.74</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000239">
+        <Cliente>Cliente 239</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9752.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000240">
+        <Cliente>Cliente 240</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3986.58</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000241">
+        <Cliente>Cliente 241</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>170.55</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000242">
+        <Cliente>Cliente 242</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4042.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000243">
+        <Cliente>Cliente 243</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3821.34</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000244">
+        <Cliente>Cliente 244</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2330.41</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000245">
+        <Cliente>Cliente 245</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>86.12</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000246">
+        <Cliente>Cliente 246</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8433.55</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000247">
+        <Cliente>Cliente 247</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9572.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000248">
+        <Cliente>Cliente 248</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4710.64</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000249">
+        <Cliente>Cliente 249</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4842.99</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000250">
+        <Cliente>Cliente 250</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2115.1</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000251">
+        <Cliente>Cliente 251</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6509.14</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000252">
+        <Cliente>Cliente 252</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3622.99</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000253">
+        <Cliente>Cliente 253</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8350.78</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000254">
+        <Cliente>Cliente 254</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3904.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000255">
+        <Cliente>Cliente 255</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8161.32</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000256">
+        <Cliente>Cliente 256</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9107.66</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000257">
+        <Cliente>Cliente 257</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3161.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000258">
+        <Cliente>Cliente 258</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>668.33</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000259">
+        <Cliente>Cliente 259</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1656.71</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000260">
+        <Cliente>Cliente 260</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4397.77</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000261">
+        <Cliente>Cliente 261</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7486.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000262">
+        <Cliente>Cliente 262</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9475.3</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000263">
+        <Cliente>Cliente 263</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7415.43</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000264">
+        <Cliente>Cliente 264</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8959.04</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000265">
+        <Cliente>Cliente 265</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8637.89</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000266">
+        <Cliente>Cliente 266</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5223.24</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000267">
+        <Cliente>Cliente 267</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7437.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000268">
+        <Cliente>Cliente 268</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4636.11</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000269">
+        <Cliente>Cliente 269</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9922.93</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000270">
+        <Cliente>Cliente 270</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8427.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000271">
+        <Cliente>Cliente 271</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3331.25</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000272">
+        <Cliente>Cliente 272</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4742.88</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000273">
+        <Cliente>Cliente 273</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1916.54</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000274">
+        <Cliente>Cliente 274</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>450.21</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000275">
+        <Cliente>Cliente 275</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3685.18</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000276">
+        <Cliente>Cliente 276</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1700.39</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000277">
+        <Cliente>Cliente 277</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2788.56</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000278">
+        <Cliente>Cliente 278</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4491.34</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000279">
+        <Cliente>Cliente 279</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6449.37</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000280">
+        <Cliente>Cliente 280</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1230.03</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000281">
+        <Cliente>Cliente 281</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3350.71</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000282">
+        <Cliente>Cliente 282</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5255.03</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000283">
+        <Cliente>Cliente 283</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8992.81</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000284">
+        <Cliente>Cliente 284</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7449.23</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000285">
+        <Cliente>Cliente 285</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7123.13</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000286">
+        <Cliente>Cliente 286</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1143.73</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000287">
+        <Cliente>Cliente 287</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6432.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000288">
+        <Cliente>Cliente 288</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1913.55</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000289">
+        <Cliente>Cliente 289</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>953.23</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000290">
+        <Cliente>Cliente 290</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3936.35</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000291">
+        <Cliente>Cliente 291</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3810.09</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000292">
+        <Cliente>Cliente 292</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6290.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000293">
+        <Cliente>Cliente 293</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2604.83</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000294">
+        <Cliente>Cliente 294</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>636.69</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000295">
+        <Cliente>Cliente 295</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3711.04</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000296">
+        <Cliente>Cliente 296</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9608.83</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000297">
+        <Cliente>Cliente 297</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2845.55</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000298">
+        <Cliente>Cliente 298</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7690.85</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000299">
+        <Cliente>Cliente 299</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8890.38</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000300">
+        <Cliente>Cliente 300</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6651.72</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000301">
+        <Cliente>Cliente 301</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4308.36</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000302">
+        <Cliente>Cliente 302</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4628.18</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000303">
+        <Cliente>Cliente 303</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7676.19</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000304">
+        <Cliente>Cliente 304</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3818.83</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000305">
+        <Cliente>Cliente 305</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5046.8</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000306">
+        <Cliente>Cliente 306</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5658.72</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000307">
+        <Cliente>Cliente 307</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4592.05</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000308">
+        <Cliente>Cliente 308</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3877.13</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000309">
+        <Cliente>Cliente 309</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3580.99</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000310">
+        <Cliente>Cliente 310</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4084.87</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000311">
+        <Cliente>Cliente 311</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8272.99</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000312">
+        <Cliente>Cliente 312</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9860.54</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000313">
+        <Cliente>Cliente 313</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>813.05</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000314">
+        <Cliente>Cliente 314</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7598.03</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000315">
+        <Cliente>Cliente 315</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7129.9</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000316">
+        <Cliente>Cliente 316</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6741.64</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000317">
+        <Cliente>Cliente 317</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1424.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000318">
+        <Cliente>Cliente 318</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8805.23</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000319">
+        <Cliente>Cliente 319</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9642.73</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000320">
+        <Cliente>Cliente 320</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5612.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000321">
+        <Cliente>Cliente 321</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5959.33</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000322">
+        <Cliente>Cliente 322</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1170.69</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000323">
+        <Cliente>Cliente 323</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9270.92</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000324">
+        <Cliente>Cliente 324</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3103.12</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000325">
+        <Cliente>Cliente 325</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7106.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000326">
+        <Cliente>Cliente 326</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3882.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000327">
+        <Cliente>Cliente 327</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4928.03</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000328">
+        <Cliente>Cliente 328</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2682.35</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000329">
+        <Cliente>Cliente 329</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9493.06</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000330">
+        <Cliente>Cliente 330</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3842.4</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000331">
+        <Cliente>Cliente 331</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>459.78</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000332">
+        <Cliente>Cliente 332</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6755.44</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000333">
+        <Cliente>Cliente 333</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7684.96</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000334">
+        <Cliente>Cliente 334</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8042.2</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000335">
+        <Cliente>Cliente 335</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6079.72</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000336">
+        <Cliente>Cliente 336</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9578.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000337">
+        <Cliente>Cliente 337</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9562.33</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000338">
+        <Cliente>Cliente 338</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2394.51</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000339">
+        <Cliente>Cliente 339</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>551.09</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000340">
+        <Cliente>Cliente 340</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>119.86</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000341">
+        <Cliente>Cliente 341</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3149.47</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000342">
+        <Cliente>Cliente 342</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6208.7</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000343">
+        <Cliente>Cliente 343</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9761.17</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000344">
+        <Cliente>Cliente 344</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5921.58</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000345">
+        <Cliente>Cliente 345</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2323.62</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000346">
+        <Cliente>Cliente 346</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4387.49</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000347">
+        <Cliente>Cliente 347</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8970.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000348">
+        <Cliente>Cliente 348</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8511.06</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000349">
+        <Cliente>Cliente 349</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5171.71</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000350">
+        <Cliente>Cliente 350</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9325.44</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000351">
+        <Cliente>Cliente 351</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1477.54</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000352">
+        <Cliente>Cliente 352</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1166.37</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000353">
+        <Cliente>Cliente 353</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8666.14</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000354">
+        <Cliente>Cliente 354</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1357.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000355">
+        <Cliente>Cliente 355</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4893.78</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000356">
+        <Cliente>Cliente 356</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>537.63</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000357">
+        <Cliente>Cliente 357</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>661.19</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000358">
+        <Cliente>Cliente 358</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1281.89</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000359">
+        <Cliente>Cliente 359</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8458.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000360">
+        <Cliente>Cliente 360</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>846.0</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000361">
+        <Cliente>Cliente 361</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3916.3</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000362">
+        <Cliente>Cliente 362</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9155.2</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000363">
+        <Cliente>Cliente 363</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1564.45</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000364">
+        <Cliente>Cliente 364</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2167.62</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000365">
+        <Cliente>Cliente 365</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3969.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000366">
+        <Cliente>Cliente 366</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3963.47</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000367">
+        <Cliente>Cliente 367</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5092.9</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000368">
+        <Cliente>Cliente 368</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6586.65</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000369">
+        <Cliente>Cliente 369</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1881.08</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000370">
+        <Cliente>Cliente 370</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3240.06</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000371">
+        <Cliente>Cliente 371</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7365.73</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000372">
+        <Cliente>Cliente 372</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1499.39</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000373">
+        <Cliente>Cliente 373</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6791.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000374">
+        <Cliente>Cliente 374</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5754.22</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000375">
+        <Cliente>Cliente 375</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9683.81</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000376">
+        <Cliente>Cliente 376</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7720.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000377">
+        <Cliente>Cliente 377</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>496.56</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000378">
+        <Cliente>Cliente 378</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>886.38</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000379">
+        <Cliente>Cliente 379</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1201.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000380">
+        <Cliente>Cliente 380</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6895.06</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000381">
+        <Cliente>Cliente 381</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>483.34</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000382">
+        <Cliente>Cliente 382</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>136.38</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000383">
+        <Cliente>Cliente 383</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5413.4</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000384">
+        <Cliente>Cliente 384</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3178.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000385">
+        <Cliente>Cliente 385</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5044.16</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000386">
+        <Cliente>Cliente 386</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8719.82</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000387">
+        <Cliente>Cliente 387</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2756.53</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000388">
+        <Cliente>Cliente 388</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2013.21</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000389">
+        <Cliente>Cliente 389</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1819.78</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000390">
+        <Cliente>Cliente 390</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5450.45</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000391">
+        <Cliente>Cliente 391</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7030.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000392">
+        <Cliente>Cliente 392</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7811.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000393">
+        <Cliente>Cliente 393</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5290.71</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000394">
+        <Cliente>Cliente 394</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7837.94</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000395">
+        <Cliente>Cliente 395</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4050.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000396">
+        <Cliente>Cliente 396</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5387.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000397">
+        <Cliente>Cliente 397</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6256.81</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000398">
+        <Cliente>Cliente 398</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3400.86</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000399">
+        <Cliente>Cliente 399</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4563.16</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000400">
+        <Cliente>Cliente 400</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8975.41</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000401">
+        <Cliente>Cliente 401</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1303.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000402">
+        <Cliente>Cliente 402</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5056.23</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000403">
+        <Cliente>Cliente 403</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3001.28</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000404">
+        <Cliente>Cliente 404</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2679.12</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000405">
+        <Cliente>Cliente 405</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2159.52</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000406">
+        <Cliente>Cliente 406</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1875.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000407">
+        <Cliente>Cliente 407</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2935.71</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000408">
+        <Cliente>Cliente 408</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1545.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000409">
+        <Cliente>Cliente 409</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6122.57</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000410">
+        <Cliente>Cliente 410</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1996.2</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000411">
+        <Cliente>Cliente 411</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8562.45</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000412">
+        <Cliente>Cliente 412</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9268.05</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000413">
+        <Cliente>Cliente 413</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4965.54</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000414">
+        <Cliente>Cliente 414</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7345.29</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000415">
+        <Cliente>Cliente 415</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6490.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000416">
+        <Cliente>Cliente 416</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8857.41</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000417">
+        <Cliente>Cliente 417</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6489.89</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000418">
+        <Cliente>Cliente 418</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3320.96</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000419">
+        <Cliente>Cliente 419</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1671.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000420">
+        <Cliente>Cliente 420</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1552.94</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000421">
+        <Cliente>Cliente 421</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4112.63</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000422">
+        <Cliente>Cliente 422</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3201.21</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000423">
+        <Cliente>Cliente 423</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8103.43</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000424">
+        <Cliente>Cliente 424</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5177.38</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000425">
+        <Cliente>Cliente 425</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5255.75</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000426">
+        <Cliente>Cliente 426</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2650.78</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000427">
+        <Cliente>Cliente 427</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5713.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000428">
+        <Cliente>Cliente 428</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3335.77</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000429">
+        <Cliente>Cliente 429</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9032.02</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000430">
+        <Cliente>Cliente 430</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7362.71</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000431">
+        <Cliente>Cliente 431</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7825.58</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000432">
+        <Cliente>Cliente 432</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1901.63</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000433">
+        <Cliente>Cliente 433</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1955.36</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000434">
+        <Cliente>Cliente 434</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1872.9</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000435">
+        <Cliente>Cliente 435</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>363.81</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000436">
+        <Cliente>Cliente 436</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7561.97</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000437">
+        <Cliente>Cliente 437</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7796.29</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000438">
+        <Cliente>Cliente 438</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8102.79</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000439">
+        <Cliente>Cliente 439</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1288.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000440">
+        <Cliente>Cliente 440</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3605.96</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000441">
+        <Cliente>Cliente 441</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7863.31</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000442">
+        <Cliente>Cliente 442</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2741.9</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000443">
+        <Cliente>Cliente 443</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7514.36</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000444">
+        <Cliente>Cliente 444</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8143.03</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000445">
+        <Cliente>Cliente 445</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7988.85</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000446">
+        <Cliente>Cliente 446</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2566.43</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000447">
+        <Cliente>Cliente 447</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9492.96</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000448">
+        <Cliente>Cliente 448</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5512.44</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000449">
+        <Cliente>Cliente 449</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3465.37</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000450">
+        <Cliente>Cliente 450</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>74.02</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000451">
+        <Cliente>Cliente 451</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6139.81</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000452">
+        <Cliente>Cliente 452</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7865.39</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000453">
+        <Cliente>Cliente 453</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4148.96</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000454">
+        <Cliente>Cliente 454</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5503.14</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000455">
+        <Cliente>Cliente 455</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2580.11</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000456">
+        <Cliente>Cliente 456</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9674.04</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000457">
+        <Cliente>Cliente 457</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8282.93</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000458">
+        <Cliente>Cliente 458</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4014.8</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000459">
+        <Cliente>Cliente 459</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9647.04</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000460">
+        <Cliente>Cliente 460</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5843.87</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000461">
+        <Cliente>Cliente 461</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7785.33</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000462">
+        <Cliente>Cliente 462</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3839.4</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000463">
+        <Cliente>Cliente 463</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6050.3</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000464">
+        <Cliente>Cliente 464</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2407.44</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000465">
+        <Cliente>Cliente 465</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6813.57</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000466">
+        <Cliente>Cliente 466</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3482.87</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000467">
+        <Cliente>Cliente 467</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4494.2</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000468">
+        <Cliente>Cliente 468</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4268.46</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000469">
+        <Cliente>Cliente 469</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2029.01</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000470">
+        <Cliente>Cliente 470</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5603.22</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000471">
+        <Cliente>Cliente 471</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7466.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000472">
+        <Cliente>Cliente 472</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4741.04</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000473">
+        <Cliente>Cliente 473</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8288.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000474">
+        <Cliente>Cliente 474</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3338.14</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000475">
+        <Cliente>Cliente 475</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4961.57</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000476">
+        <Cliente>Cliente 476</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3846.85</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000477">
+        <Cliente>Cliente 477</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6032.79</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000478">
+        <Cliente>Cliente 478</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2202.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000479">
+        <Cliente>Cliente 479</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3213.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000480">
+        <Cliente>Cliente 480</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>453.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000481">
+        <Cliente>Cliente 481</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3933.91</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000482">
+        <Cliente>Cliente 482</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9165.21</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000483">
+        <Cliente>Cliente 483</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6739.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000484">
+        <Cliente>Cliente 484</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9273.35</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000485">
+        <Cliente>Cliente 485</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1181.55</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000486">
+        <Cliente>Cliente 486</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6871.11</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000487">
+        <Cliente>Cliente 487</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7231.72</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000488">
+        <Cliente>Cliente 488</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2575.66</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000489">
+        <Cliente>Cliente 489</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1409.85</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000490">
+        <Cliente>Cliente 490</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4922.01</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000491">
+        <Cliente>Cliente 491</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2500.91</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000492">
+        <Cliente>Cliente 492</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3869.63</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000493">
+        <Cliente>Cliente 493</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8663.08</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000494">
+        <Cliente>Cliente 494</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2149.81</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000495">
+        <Cliente>Cliente 495</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9951.1</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000496">
+        <Cliente>Cliente 496</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4891.27</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000497">
+        <Cliente>Cliente 497</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6971.64</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000498">
+        <Cliente>Cliente 498</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2058.62</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000499">
+        <Cliente>Cliente 499</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>826.7</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000500">
+        <Cliente>Cliente 500</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3703.48</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000501">
+        <Cliente>Cliente 501</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>317.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000502">
+        <Cliente>Cliente 502</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7338.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000503">
+        <Cliente>Cliente 503</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4238.8</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000504">
+        <Cliente>Cliente 504</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>431.7</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000505">
+        <Cliente>Cliente 505</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5884.31</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000506">
+        <Cliente>Cliente 506</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1129.98</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000507">
+        <Cliente>Cliente 507</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4756.99</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000508">
+        <Cliente>Cliente 508</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5058.11</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000509">
+        <Cliente>Cliente 509</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5787.14</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000510">
+        <Cliente>Cliente 510</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6526.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000511">
+        <Cliente>Cliente 511</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3970.1</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000512">
+        <Cliente>Cliente 512</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4398.27</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000513">
+        <Cliente>Cliente 513</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6630.57</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000514">
+        <Cliente>Cliente 514</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9173.61</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000515">
+        <Cliente>Cliente 515</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8043.18</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000516">
+        <Cliente>Cliente 516</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5058.32</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000517">
+        <Cliente>Cliente 517</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4856.02</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000518">
+        <Cliente>Cliente 518</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8545.27</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000519">
+        <Cliente>Cliente 519</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2508.18</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000520">
+        <Cliente>Cliente 520</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>345.44</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000521">
+        <Cliente>Cliente 521</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1935.57</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000522">
+        <Cliente>Cliente 522</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7465.77</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000523">
+        <Cliente>Cliente 523</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7847.87</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000524">
+        <Cliente>Cliente 524</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1484.49</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000525">
+        <Cliente>Cliente 525</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6166.94</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000526">
+        <Cliente>Cliente 526</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3871.14</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000527">
+        <Cliente>Cliente 527</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6218.03</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000528">
+        <Cliente>Cliente 528</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7973.23</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000529">
+        <Cliente>Cliente 529</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4305.56</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000530">
+        <Cliente>Cliente 530</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9538.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000531">
+        <Cliente>Cliente 531</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9630.3</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000532">
+        <Cliente>Cliente 532</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2321.38</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000533">
+        <Cliente>Cliente 533</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9217.01</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000534">
+        <Cliente>Cliente 534</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1069.69</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000535">
+        <Cliente>Cliente 535</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7250.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000536">
+        <Cliente>Cliente 536</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>654.22</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000537">
+        <Cliente>Cliente 537</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3768.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000538">
+        <Cliente>Cliente 538</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3009.87</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000539">
+        <Cliente>Cliente 539</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6151.56</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000540">
+        <Cliente>Cliente 540</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4848.66</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000541">
+        <Cliente>Cliente 541</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2148.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000542">
+        <Cliente>Cliente 542</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2916.73</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000543">
+        <Cliente>Cliente 543</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9312.85</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000544">
+        <Cliente>Cliente 544</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2320.79</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000545">
+        <Cliente>Cliente 545</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6096.01</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000546">
+        <Cliente>Cliente 546</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4389.17</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000547">
+        <Cliente>Cliente 547</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7311.17</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000548">
+        <Cliente>Cliente 548</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5953.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000549">
+        <Cliente>Cliente 549</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6701.96</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000550">
+        <Cliente>Cliente 550</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8074.97</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000551">
+        <Cliente>Cliente 551</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5156.84</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000552">
+        <Cliente>Cliente 552</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9221.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000553">
+        <Cliente>Cliente 553</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6704.57</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000554">
+        <Cliente>Cliente 554</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4651.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000555">
+        <Cliente>Cliente 555</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8341.65</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000556">
+        <Cliente>Cliente 556</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8369.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000557">
+        <Cliente>Cliente 557</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>345.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000558">
+        <Cliente>Cliente 558</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8592.88</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000559">
+        <Cliente>Cliente 559</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6647.52</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000560">
+        <Cliente>Cliente 560</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>966.21</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000561">
+        <Cliente>Cliente 561</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7045.25</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000562">
+        <Cliente>Cliente 562</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>690.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000563">
+        <Cliente>Cliente 563</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2809.28</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000564">
+        <Cliente>Cliente 564</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1334.42</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000565">
+        <Cliente>Cliente 565</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>812.09</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000566">
+        <Cliente>Cliente 566</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5986.93</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000567">
+        <Cliente>Cliente 567</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8297.85</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000568">
+        <Cliente>Cliente 568</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4639.87</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000569">
+        <Cliente>Cliente 569</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8730.55</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000570">
+        <Cliente>Cliente 570</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7739.51</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000571">
+        <Cliente>Cliente 571</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4745.85</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000572">
+        <Cliente>Cliente 572</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9608.99</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000573">
+        <Cliente>Cliente 573</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4506.0</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000574">
+        <Cliente>Cliente 574</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4300.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000575">
+        <Cliente>Cliente 575</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9886.3</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000576">
+        <Cliente>Cliente 576</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9246.24</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000577">
+        <Cliente>Cliente 577</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6559.94</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000578">
+        <Cliente>Cliente 578</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8715.28</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000579">
+        <Cliente>Cliente 579</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3346.59</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000580">
+        <Cliente>Cliente 580</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1983.86</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000581">
+        <Cliente>Cliente 581</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1174.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000582">
+        <Cliente>Cliente 582</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2972.69</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000583">
+        <Cliente>Cliente 583</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8084.78</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000584">
+        <Cliente>Cliente 584</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>761.35</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000585">
+        <Cliente>Cliente 585</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4228.3</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000586">
+        <Cliente>Cliente 586</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6957.27</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000587">
+        <Cliente>Cliente 587</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1718.27</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000588">
+        <Cliente>Cliente 588</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>356.57</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000589">
+        <Cliente>Cliente 589</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8201.33</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000590">
+        <Cliente>Cliente 590</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9383.27</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000591">
+        <Cliente>Cliente 591</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3873.18</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000592">
+        <Cliente>Cliente 592</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3807.44</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000593">
+        <Cliente>Cliente 593</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>262.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000594">
+        <Cliente>Cliente 594</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4545.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000595">
+        <Cliente>Cliente 595</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4795.13</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000596">
+        <Cliente>Cliente 596</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2488.4</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000597">
+        <Cliente>Cliente 597</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7558.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000598">
+        <Cliente>Cliente 598</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7374.39</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000599">
+        <Cliente>Cliente 599</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6631.1</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000600">
+        <Cliente>Cliente 600</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1513.65</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000601">
+        <Cliente>Cliente 601</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8686.12</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000602">
+        <Cliente>Cliente 602</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7639.17</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000603">
+        <Cliente>Cliente 603</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8225.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000604">
+        <Cliente>Cliente 604</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>557.8</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000605">
+        <Cliente>Cliente 605</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2226.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000606">
+        <Cliente>Cliente 606</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>260.47</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000607">
+        <Cliente>Cliente 607</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9422.33</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000608">
+        <Cliente>Cliente 608</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>140.19</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000609">
+        <Cliente>Cliente 609</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1754.93</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000610">
+        <Cliente>Cliente 610</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>48.57</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000611">
+        <Cliente>Cliente 611</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4224.4</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000612">
+        <Cliente>Cliente 612</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5862.48</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000613">
+        <Cliente>Cliente 613</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>314.93</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000614">
+        <Cliente>Cliente 614</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9423.54</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000615">
+        <Cliente>Cliente 615</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8929.83</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000616">
+        <Cliente>Cliente 616</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8137.55</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000617">
+        <Cliente>Cliente 617</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1543.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000618">
+        <Cliente>Cliente 618</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3265.27</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000619">
+        <Cliente>Cliente 619</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5049.13</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000620">
+        <Cliente>Cliente 620</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5682.35</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000621">
+        <Cliente>Cliente 621</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2900.75</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000622">
+        <Cliente>Cliente 622</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5481.39</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000623">
+        <Cliente>Cliente 623</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>836.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000624">
+        <Cliente>Cliente 624</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6145.09</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000625">
+        <Cliente>Cliente 625</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6814.33</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000626">
+        <Cliente>Cliente 626</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7191.61</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000627">
+        <Cliente>Cliente 627</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5826.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000628">
+        <Cliente>Cliente 628</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3771.79</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000629">
+        <Cliente>Cliente 629</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3672.44</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000630">
+        <Cliente>Cliente 630</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6048.36</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000631">
+        <Cliente>Cliente 631</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6453.0</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000632">
+        <Cliente>Cliente 632</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>847.92</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000633">
+        <Cliente>Cliente 633</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1281.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000634">
+        <Cliente>Cliente 634</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3588.28</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000635">
+        <Cliente>Cliente 635</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2010.86</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000636">
+        <Cliente>Cliente 636</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7897.06</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000637">
+        <Cliente>Cliente 637</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6689.66</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000638">
+        <Cliente>Cliente 638</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>245.11</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000639">
+        <Cliente>Cliente 639</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4883.06</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000640">
+        <Cliente>Cliente 640</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2022.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000641">
+        <Cliente>Cliente 641</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3545.97</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000642">
+        <Cliente>Cliente 642</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1296.73</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000643">
+        <Cliente>Cliente 643</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6011.97</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000644">
+        <Cliente>Cliente 644</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1030.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000645">
+        <Cliente>Cliente 645</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4500.7</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000646">
+        <Cliente>Cliente 646</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2284.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000647">
+        <Cliente>Cliente 647</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3552.44</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000648">
+        <Cliente>Cliente 648</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5181.94</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000649">
+        <Cliente>Cliente 649</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3032.36</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000650">
+        <Cliente>Cliente 650</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>196.43</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000651">
+        <Cliente>Cliente 651</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5720.22</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000652">
+        <Cliente>Cliente 652</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8568.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000653">
+        <Cliente>Cliente 653</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6357.21</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000654">
+        <Cliente>Cliente 654</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9964.49</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000655">
+        <Cliente>Cliente 655</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>179.81</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000656">
+        <Cliente>Cliente 656</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3484.87</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000657">
+        <Cliente>Cliente 657</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1238.32</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000658">
+        <Cliente>Cliente 658</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3760.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000659">
+        <Cliente>Cliente 659</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2055.46</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000660">
+        <Cliente>Cliente 660</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6129.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000661">
+        <Cliente>Cliente 661</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5853.44</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000662">
+        <Cliente>Cliente 662</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3561.22</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000663">
+        <Cliente>Cliente 663</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6067.21</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000664">
+        <Cliente>Cliente 664</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5758.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000665">
+        <Cliente>Cliente 665</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3585.67</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000666">
+        <Cliente>Cliente 666</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5033.83</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000667">
+        <Cliente>Cliente 667</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2014.48</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000668">
+        <Cliente>Cliente 668</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6156.35</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000669">
+        <Cliente>Cliente 669</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3292.58</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000670">
+        <Cliente>Cliente 670</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2086.92</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000671">
+        <Cliente>Cliente 671</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6554.02</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000672">
+        <Cliente>Cliente 672</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8917.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000673">
+        <Cliente>Cliente 673</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7841.92</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000674">
+        <Cliente>Cliente 674</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3625.78</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000675">
+        <Cliente>Cliente 675</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4068.74</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000676">
+        <Cliente>Cliente 676</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4302.58</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000677">
+        <Cliente>Cliente 677</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4353.23</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000678">
+        <Cliente>Cliente 678</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6570.58</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000679">
+        <Cliente>Cliente 679</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9053.87</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000680">
+        <Cliente>Cliente 680</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5289.38</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000681">
+        <Cliente>Cliente 681</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4725.59</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000682">
+        <Cliente>Cliente 682</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5541.42</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000683">
+        <Cliente>Cliente 683</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3144.88</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000684">
+        <Cliente>Cliente 684</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9497.71</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000685">
+        <Cliente>Cliente 685</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8358.05</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000686">
+        <Cliente>Cliente 686</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8379.1</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000687">
+        <Cliente>Cliente 687</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5775.03</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000688">
+        <Cliente>Cliente 688</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5634.37</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000689">
+        <Cliente>Cliente 689</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2337.93</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000690">
+        <Cliente>Cliente 690</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5466.07</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000691">
+        <Cliente>Cliente 691</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6178.44</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000692">
+        <Cliente>Cliente 692</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8423.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000693">
+        <Cliente>Cliente 693</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1880.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000694">
+        <Cliente>Cliente 694</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2041.85</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000695">
+        <Cliente>Cliente 695</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3354.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000696">
+        <Cliente>Cliente 696</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>267.77</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000697">
+        <Cliente>Cliente 697</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5824.83</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000698">
+        <Cliente>Cliente 698</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3135.0</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000699">
+        <Cliente>Cliente 699</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4731.78</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000700">
+        <Cliente>Cliente 700</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9242.09</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000701">
+        <Cliente>Cliente 701</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>360.71</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000702">
+        <Cliente>Cliente 702</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2850.12</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000703">
+        <Cliente>Cliente 703</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7610.25</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000704">
+        <Cliente>Cliente 704</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8530.54</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000705">
+        <Cliente>Cliente 705</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6272.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000706">
+        <Cliente>Cliente 706</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5599.47</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000707">
+        <Cliente>Cliente 707</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>831.88</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000708">
+        <Cliente>Cliente 708</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7405.01</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000709">
+        <Cliente>Cliente 709</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6226.28</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000710">
+        <Cliente>Cliente 710</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1968.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000711">
+        <Cliente>Cliente 711</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1644.69</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000712">
+        <Cliente>Cliente 712</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3823.36</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000713">
+        <Cliente>Cliente 713</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>638.27</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000714">
+        <Cliente>Cliente 714</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5186.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000715">
+        <Cliente>Cliente 715</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>64.21</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000716">
+        <Cliente>Cliente 716</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>624.92</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000717">
+        <Cliente>Cliente 717</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7059.37</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000718">
+        <Cliente>Cliente 718</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8534.07</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000719">
+        <Cliente>Cliente 719</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>321.04</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000720">
+        <Cliente>Cliente 720</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7720.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000721">
+        <Cliente>Cliente 721</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2690.73</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000722">
+        <Cliente>Cliente 722</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7319.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000723">
+        <Cliente>Cliente 723</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8244.27</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000724">
+        <Cliente>Cliente 724</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6312.43</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000725">
+        <Cliente>Cliente 725</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>723.4</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000726">
+        <Cliente>Cliente 726</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8221.21</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000727">
+        <Cliente>Cliente 727</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1309.98</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000728">
+        <Cliente>Cliente 728</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1737.77</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000729">
+        <Cliente>Cliente 729</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8943.75</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000730">
+        <Cliente>Cliente 730</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6621.06</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000731">
+        <Cliente>Cliente 731</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>229.35</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000732">
+        <Cliente>Cliente 732</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2668.72</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000733">
+        <Cliente>Cliente 733</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6881.85</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000734">
+        <Cliente>Cliente 734</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2642.43</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000735">
+        <Cliente>Cliente 735</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7132.67</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000736">
+        <Cliente>Cliente 736</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6335.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000737">
+        <Cliente>Cliente 737</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7697.99</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000738">
+        <Cliente>Cliente 738</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2449.12</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000739">
+        <Cliente>Cliente 739</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>258.63</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000740">
+        <Cliente>Cliente 740</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9246.21</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000741">
+        <Cliente>Cliente 741</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8999.08</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000742">
+        <Cliente>Cliente 742</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4516.76</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000743">
+        <Cliente>Cliente 743</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6423.53</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000744">
+        <Cliente>Cliente 744</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5641.84</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000745">
+        <Cliente>Cliente 745</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3036.9</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000746">
+        <Cliente>Cliente 746</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9576.32</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000747">
+        <Cliente>Cliente 747</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3683.19</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000748">
+        <Cliente>Cliente 748</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2024.39</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000749">
+        <Cliente>Cliente 749</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5419.78</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000750">
+        <Cliente>Cliente 750</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1107.47</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000751">
+        <Cliente>Cliente 751</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>764.62</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000752">
+        <Cliente>Cliente 752</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>537.47</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000753">
+        <Cliente>Cliente 753</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8575.61</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000754">
+        <Cliente>Cliente 754</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1279.06</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000755">
+        <Cliente>Cliente 755</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5921.86</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000756">
+        <Cliente>Cliente 756</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3491.9</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000757">
+        <Cliente>Cliente 757</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3122.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000758">
+        <Cliente>Cliente 758</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7523.66</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000759">
+        <Cliente>Cliente 759</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1317.52</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000760">
+        <Cliente>Cliente 760</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7367.46</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000761">
+        <Cliente>Cliente 761</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4232.23</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000762">
+        <Cliente>Cliente 762</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8476.83</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000763">
+        <Cliente>Cliente 763</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5160.51</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000764">
+        <Cliente>Cliente 764</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3799.9</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000765">
+        <Cliente>Cliente 765</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9542.75</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000766">
+        <Cliente>Cliente 766</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8547.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000767">
+        <Cliente>Cliente 767</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2966.79</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000768">
+        <Cliente>Cliente 768</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6544.51</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000769">
+        <Cliente>Cliente 769</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4729.74</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000770">
+        <Cliente>Cliente 770</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1888.62</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000771">
+        <Cliente>Cliente 771</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4012.96</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000772">
+        <Cliente>Cliente 772</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>661.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000773">
+        <Cliente>Cliente 773</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7291.53</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000774">
+        <Cliente>Cliente 774</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9447.15</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000775">
+        <Cliente>Cliente 775</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4589.69</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000776">
+        <Cliente>Cliente 776</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9898.52</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000777">
+        <Cliente>Cliente 777</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7593.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000778">
+        <Cliente>Cliente 778</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7006.52</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000779">
+        <Cliente>Cliente 779</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5010.17</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000780">
+        <Cliente>Cliente 780</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>143.35</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000781">
+        <Cliente>Cliente 781</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4813.78</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000782">
+        <Cliente>Cliente 782</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8938.29</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000783">
+        <Cliente>Cliente 783</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4990.42</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000784">
+        <Cliente>Cliente 784</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9137.53</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000785">
+        <Cliente>Cliente 785</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8243.42</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000786">
+        <Cliente>Cliente 786</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8019.69</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000787">
+        <Cliente>Cliente 787</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9845.2</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000788">
+        <Cliente>Cliente 788</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5640.53</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000789">
+        <Cliente>Cliente 789</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5784.66</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000790">
+        <Cliente>Cliente 790</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>692.58</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000791">
+        <Cliente>Cliente 791</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2591.34</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000792">
+        <Cliente>Cliente 792</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9408.88</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000793">
+        <Cliente>Cliente 793</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3244.76</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000794">
+        <Cliente>Cliente 794</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8933.12</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000795">
+        <Cliente>Cliente 795</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1652.66</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000796">
+        <Cliente>Cliente 796</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7199.38</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000797">
+        <Cliente>Cliente 797</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3550.63</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000798">
+        <Cliente>Cliente 798</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3163.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000799">
+        <Cliente>Cliente 799</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7777.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000800">
+        <Cliente>Cliente 800</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3671.34</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000801">
+        <Cliente>Cliente 801</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2705.34</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000802">
+        <Cliente>Cliente 802</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6937.41</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000803">
+        <Cliente>Cliente 803</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4574.78</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000804">
+        <Cliente>Cliente 804</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>144.2</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000805">
+        <Cliente>Cliente 805</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5065.36</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000806">
+        <Cliente>Cliente 806</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7099.14</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000807">
+        <Cliente>Cliente 807</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2635.93</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000808">
+        <Cliente>Cliente 808</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5378.58</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000809">
+        <Cliente>Cliente 809</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4887.22</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000810">
+        <Cliente>Cliente 810</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6334.31</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000811">
+        <Cliente>Cliente 811</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6818.36</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000812">
+        <Cliente>Cliente 812</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>382.08</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000813">
+        <Cliente>Cliente 813</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4403.42</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000814">
+        <Cliente>Cliente 814</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6173.46</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000815">
+        <Cliente>Cliente 815</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7934.35</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000816">
+        <Cliente>Cliente 816</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5823.48</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000817">
+        <Cliente>Cliente 817</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5147.73</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000818">
+        <Cliente>Cliente 818</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4702.97</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000819">
+        <Cliente>Cliente 819</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5020.4</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000820">
+        <Cliente>Cliente 820</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9140.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000821">
+        <Cliente>Cliente 821</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6713.94</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000822">
+        <Cliente>Cliente 822</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>208.32</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000823">
+        <Cliente>Cliente 823</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2523.71</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000824">
+        <Cliente>Cliente 824</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5326.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000825">
+        <Cliente>Cliente 825</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9686.41</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000826">
+        <Cliente>Cliente 826</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2437.55</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000827">
+        <Cliente>Cliente 827</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6504.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000828">
+        <Cliente>Cliente 828</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5966.0</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000829">
+        <Cliente>Cliente 829</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8025.36</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000830">
+        <Cliente>Cliente 830</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8005.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000831">
+        <Cliente>Cliente 831</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9712.21</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000832">
+        <Cliente>Cliente 832</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7303.51</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000833">
+        <Cliente>Cliente 833</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5858.69</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000834">
+        <Cliente>Cliente 834</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8086.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000835">
+        <Cliente>Cliente 835</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5103.34</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000836">
+        <Cliente>Cliente 836</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>442.7</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000837">
+        <Cliente>Cliente 837</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5236.89</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000838">
+        <Cliente>Cliente 838</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1776.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000839">
+        <Cliente>Cliente 839</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7179.96</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000840">
+        <Cliente>Cliente 840</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3709.51</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000841">
+        <Cliente>Cliente 841</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4399.19</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000842">
+        <Cliente>Cliente 842</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2099.8</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000843">
+        <Cliente>Cliente 843</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>780.17</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000844">
+        <Cliente>Cliente 844</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>248.75</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000845">
+        <Cliente>Cliente 845</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4181.89</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000846">
+        <Cliente>Cliente 846</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5710.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000847">
+        <Cliente>Cliente 847</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1692.75</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000848">
+        <Cliente>Cliente 848</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4285.8</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000849">
+        <Cliente>Cliente 849</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1812.98</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000850">
+        <Cliente>Cliente 850</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3157.43</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000851">
+        <Cliente>Cliente 851</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5451.18</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000852">
+        <Cliente>Cliente 852</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4630.25</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000853">
+        <Cliente>Cliente 853</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9722.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000854">
+        <Cliente>Cliente 854</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1777.73</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000855">
+        <Cliente>Cliente 855</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>510.56</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000856">
+        <Cliente>Cliente 856</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4619.23</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000857">
+        <Cliente>Cliente 857</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>532.72</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000858">
+        <Cliente>Cliente 858</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2130.28</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000859">
+        <Cliente>Cliente 859</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2989.85</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000860">
+        <Cliente>Cliente 860</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1837.98</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000861">
+        <Cliente>Cliente 861</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6367.41</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000862">
+        <Cliente>Cliente 862</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2507.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000863">
+        <Cliente>Cliente 863</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8968.96</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000864">
+        <Cliente>Cliente 864</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9760.98</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000865">
+        <Cliente>Cliente 865</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7451.9</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000866">
+        <Cliente>Cliente 866</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>589.83</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000867">
+        <Cliente>Cliente 867</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5703.75</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000868">
+        <Cliente>Cliente 868</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6121.1</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000869">
+        <Cliente>Cliente 869</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8498.1</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000870">
+        <Cliente>Cliente 870</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4161.12</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000871">
+        <Cliente>Cliente 871</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3781.87</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000872">
+        <Cliente>Cliente 872</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7590.37</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000873">
+        <Cliente>Cliente 873</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8206.11</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000874">
+        <Cliente>Cliente 874</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>965.12</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000875">
+        <Cliente>Cliente 875</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5213.25</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000876">
+        <Cliente>Cliente 876</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4811.9</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000877">
+        <Cliente>Cliente 877</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>401.45</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000878">
+        <Cliente>Cliente 878</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4797.08</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000879">
+        <Cliente>Cliente 879</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3878.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000880">
+        <Cliente>Cliente 880</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2692.44</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000881">
+        <Cliente>Cliente 881</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9192.11</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000882">
+        <Cliente>Cliente 882</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3497.56</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000883">
+        <Cliente>Cliente 883</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7320.67</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000884">
+        <Cliente>Cliente 884</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9649.33</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000885">
+        <Cliente>Cliente 885</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2347.12</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000886">
+        <Cliente>Cliente 886</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4860.32</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000887">
+        <Cliente>Cliente 887</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8016.01</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000888">
+        <Cliente>Cliente 888</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2417.26</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000889">
+        <Cliente>Cliente 889</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5898.0</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000890">
+        <Cliente>Cliente 890</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7335.07</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000891">
+        <Cliente>Cliente 891</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9448.31</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000892">
+        <Cliente>Cliente 892</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6769.99</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000893">
+        <Cliente>Cliente 893</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9176.02</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000894">
+        <Cliente>Cliente 894</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4998.39</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000895">
+        <Cliente>Cliente 895</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>500.28</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000896">
+        <Cliente>Cliente 896</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3415.02</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000897">
+        <Cliente>Cliente 897</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5165.82</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000898">
+        <Cliente>Cliente 898</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7727.58</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000899">
+        <Cliente>Cliente 899</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1233.51</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000900">
+        <Cliente>Cliente 900</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1965.22</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000901">
+        <Cliente>Cliente 901</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6033.23</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000902">
+        <Cliente>Cliente 902</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>32.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000903">
+        <Cliente>Cliente 903</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9031.5</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000904">
+        <Cliente>Cliente 904</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9458.64</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000905">
+        <Cliente>Cliente 905</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9437.76</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000906">
+        <Cliente>Cliente 906</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>809.09</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000907">
+        <Cliente>Cliente 907</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2543.4</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000908">
+        <Cliente>Cliente 908</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>204.69</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000909">
+        <Cliente>Cliente 909</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4502.2</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000910">
+        <Cliente>Cliente 910</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2031.28</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000911">
+        <Cliente>Cliente 911</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1397.09</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000912">
+        <Cliente>Cliente 912</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5258.27</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000913">
+        <Cliente>Cliente 913</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4110.0</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000914">
+        <Cliente>Cliente 914</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2756.58</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000915">
+        <Cliente>Cliente 915</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2079.63</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000916">
+        <Cliente>Cliente 916</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>552.72</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000917">
+        <Cliente>Cliente 917</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1764.55</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000918">
+        <Cliente>Cliente 918</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6950.63</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000919">
+        <Cliente>Cliente 919</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1443.01</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000920">
+        <Cliente>Cliente 920</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>17.61</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000921">
+        <Cliente>Cliente 921</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7307.19</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000922">
+        <Cliente>Cliente 922</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6937.57</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000923">
+        <Cliente>Cliente 923</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7945.33</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000924">
+        <Cliente>Cliente 924</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4626.46</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000925">
+        <Cliente>Cliente 925</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4482.11</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000926">
+        <Cliente>Cliente 926</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1884.28</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000927">
+        <Cliente>Cliente 927</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4073.47</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000928">
+        <Cliente>Cliente 928</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8815.41</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000929">
+        <Cliente>Cliente 929</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8569.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000930">
+        <Cliente>Cliente 930</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1242.6</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000931">
+        <Cliente>Cliente 931</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5405.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000932">
+        <Cliente>Cliente 932</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3422.83</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000933">
+        <Cliente>Cliente 933</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8646.22</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000934">
+        <Cliente>Cliente 934</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9479.64</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000935">
+        <Cliente>Cliente 935</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5526.5</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000936">
+        <Cliente>Cliente 936</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3541.87</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000937">
+        <Cliente>Cliente 937</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8887.75</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000938">
+        <Cliente>Cliente 938</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2308.38</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000939">
+        <Cliente>Cliente 939</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2386.5</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000940">
+        <Cliente>Cliente 940</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3688.72</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000941">
+        <Cliente>Cliente 941</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6001.65</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000942">
+        <Cliente>Cliente 942</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9457.1</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000943">
+        <Cliente>Cliente 943</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>8868.46</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000944">
+        <Cliente>Cliente 944</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>3370.26</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000945">
+        <Cliente>Cliente 945</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2881.64</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000946">
+        <Cliente>Cliente 946</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1496.3</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000947">
+        <Cliente>Cliente 947</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9821.44</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000948">
+        <Cliente>Cliente 948</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9446.38</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000949">
+        <Cliente>Cliente 949</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7514.96</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000950">
+        <Cliente>Cliente 950</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9904.69</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000951">
+        <Cliente>Cliente 951</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4405.59</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000952">
+        <Cliente>Cliente 952</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3135.37</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000953">
+        <Cliente>Cliente 953</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7458.28</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000954">
+        <Cliente>Cliente 954</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1291.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000955">
+        <Cliente>Cliente 955</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1600.89</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000956">
+        <Cliente>Cliente 956</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6900.86</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000957">
+        <Cliente>Cliente 957</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9339.95</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000958">
+        <Cliente>Cliente 958</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5155.33</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000959">
+        <Cliente>Cliente 959</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1611.06</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000960">
+        <Cliente>Cliente 960</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2622.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000961">
+        <Cliente>Cliente 961</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4291.72</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000962">
+        <Cliente>Cliente 962</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5332.35</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000963">
+        <Cliente>Cliente 963</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>493.75</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000964">
+        <Cliente>Cliente 964</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2375.79</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000965">
+        <Cliente>Cliente 965</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>39.83</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000966">
+        <Cliente>Cliente 966</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7889.57</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000967">
+        <Cliente>Cliente 967</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>9303.01</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000968">
+        <Cliente>Cliente 968</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>4116.68</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000969">
+        <Cliente>Cliente 969</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1093.46</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000970">
+        <Cliente>Cliente 970</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>2489.81</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000971">
+        <Cliente>Cliente 971</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2296.02</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000972">
+        <Cliente>Cliente 972</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>6921.22</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000973">
+        <Cliente>Cliente 973</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1683.76</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000974">
+        <Cliente>Cliente 974</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5739.99</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000975">
+        <Cliente>Cliente 975</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7210.02</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000976">
+        <Cliente>Cliente 976</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4413.85</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000977">
+        <Cliente>Cliente 977</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9030.16</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000978">
+        <Cliente>Cliente 978</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5738.45</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000979">
+        <Cliente>Cliente 979</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9935.53</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000980">
+        <Cliente>Cliente 980</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7161.21</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000981">
+        <Cliente>Cliente 981</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1183.69</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000982">
+        <Cliente>Cliente 982</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1829.7</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000983">
+        <Cliente>Cliente 983</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7074.17</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000984">
+        <Cliente>Cliente 984</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4748.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000985">
+        <Cliente>Cliente 985</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1630.74</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000986">
+        <Cliente>Cliente 986</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7466.68</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000987">
+        <Cliente>Cliente 987</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>1040.21</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000988">
+        <Cliente>Cliente 988</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>9546.93</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000989">
+        <Cliente>Cliente 989</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>2834.15</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000990">
+        <Cliente>Cliente 990</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3222.99</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000991">
+        <Cliente>Cliente 991</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>6833.77</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000992">
+        <Cliente>Cliente 992</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>7436.95</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000993">
+        <Cliente>Cliente 993</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>7902.02</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+    <Documento ID="30000994">
+        <Cliente>Cliente 994</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>4799.02</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000995">
+        <Cliente>Cliente 995</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>3165.26</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000996">
+        <Cliente>Cliente 996</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>5385.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000997">
+        <Cliente>Cliente 997</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>8547.18</TotalAPagar>
+        <MedioPago>PAC</MedioPago>
+    </Documento>
+    <Documento ID="30000998">
+        <Cliente>Cliente 998</Cliente>
+        <Tipo>BOLETA</Tipo>
+        <TotalAPagar>1121.68</TotalAPagar>
+        <MedioPago>PAT</MedioPago>
+    </Documento>
+    <Documento ID="30000999">
+        <Cliente>Cliente 999</Cliente>
+        <Tipo>FACTURA</Tipo>
+        <TotalAPagar>5985.91</TotalAPagar>
+        <MedioPago/>
+    </Documento>
+</DTE>
